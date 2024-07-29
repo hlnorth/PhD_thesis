@@ -1,0 +1,89 @@
+Annotation_coordinates	top_gennic_blast_hit	Citation
+21_4064909_4069215	"Helicoverpa armigera odorant receptor (OR3) mRNA, complete cds"	NA
+21_4102469_4112756	"PREDICTED: Helicoverpa armigera octopamine receptor beta-3R (LOC110374308), mRNA"	NA
+21_4198195_4199718	NA	NA
+21_4226054_4227797	NA	NA
+21_4230425_4230667	NA	NA
+21_4313278_4320280	NA	NA
+21_4330507_4331571	"PREDICTED: Helicoverpa zea uncharacterized LOC124634181 (LOC124634181), mRNA"	NA
+21_4488383_4488793	"PREDICTED: Helicoverpa armigera etoposide-induced protein 2.4 homolog (LOC110384362), mRNA"	NA
+21_4557967_4569506	"PREDICTED: Helicoverpa armigera reticulon-4-interacting protein 1, mitochondrial (LOC110377098), transcript variant X2, mRNA "	NA
+21_4592244_4628961	"PREDICTED: Helicoverpa armigera trypsin-5-like (LOC110382364), transcript variant X1, misc_RNA"	NA
+21_4667549_4669057	NA	NA
+21_4707250_4709635	NA	NA
+21_4730006_4731373	"PREDICTED: Helicoverpa armigera gloverin (LOC110378796), mRNA"	NA
+21_4740498_4740698	"PREDICTED: Helicoverpa armigera uncharacterized LOC126056336 (LOC126056336), mRNA"	NA
+21_4796367_4810382	"PREDICTED: Helicoverpa armigera catenin alpha (LOC110381804), transcript variant X3, mRNA"	NA
+21_4819118_4860021	"PREDICTED: Helicoverpa armigera ceramide synthase (LOC110373621), mRNA"	NA
+21_4957504_4957945	NA	NA
+21_5014148_5018100	"PREDICTED: Helicoverpa armigera translation initiation factor IF-2 (LOC126055041), mRNA"	NA
+21_5024275_5033791	"PREDICTED: Helicoverpa armigera facilitated trehalose transporter Tret1 (LOC110381375), mRNA"	NA
+21_5052440_5053581	"PREDICTED: Helicoverpa armigera cytochrome P450 4C1 (LOC110381377), transcript variant X2, mRNA"	Kim Lien et al. 2019
+21_5068305_5073835	"PREDICTED: Helicoverpa zea TBC1 domain family member 15 (LOC124629575), transcript variant X7, mRNA"	NA
+21_5081871_5082425	assemblies_only	NA
+21_5086424_5099524	"PREDICTED: Helicoverpa armigera cytochrome P450 4c21-like (LOC126056373), mRNA"	Kim Lien et al. 2019
+21_5122468_5136240	"PREDICTED: Helicoverpa armigera uncharacterized LOC126053454 (LOC126053454), mRNA"	NA
+21_5141296_5146750	"PREDICTED: Helicoverpa armigera uncharacterized LOC135118307 (LOC135118307), ncRNA"	NA
+21_5148362_5153297	"Helicoverpa armigera cytochrome P450 4C1 (LOC110380838), mRNA"	Kim Lien et al. 2019
+21_5154835_5161541	"PREDICTED: Helicoverpa armigera cytochrome P450 4c3 (LOC110380839), mRNA"	Ye et al. 2020
+24_4484109_4492379	Helicoverpa zea nuclear pore glycoprotein p62 	NA
+24_4494092_4502030	Helicoverpa armigera E3 ubiquitin-protein ligase MARCHF1 	NA
+24_4539756_4540744	NA	NA
+24_4694970_4726606	"PREDICTED: Helicoverpa armigera uncharacterized oxidoreductase YtbE (LOC110374233), mRNA "	NA
+24_4892503_4900772	NA	NA
+24_4986239_5014328	"PREDICTED: Helicoverpa armigera glucose dehydrogenase [FAD, quinone] (LOC110382933), transcript variant X1, mRNA"	NA
+24_5084736_5091083	"PREDICTED: Helicoverpa armigera uncharacterized LOC126056625 (LOC126056625), transcript variant X2, mRNA"	NA
+24_5112741_5114059	"PREDICTED: Helicoverpa armigera spidroin-1 (LOC110383843), mRNA"	NA
+24_5136416_5139081	"PREDICTED: Helicoverpa armigera chitin deacetylase 8 (LOC110381014), mRNA"	Han et al. 2015
+24_5141422_5143967	"PREDICTED: Helicoverpa armigera chitin deacetylase 8 (LOC110381016), mRNA"	Han et al. 2015
+24_5148529_5157945	"Helicoverpa armigera interferon-inducible double-stranded RNA-dependent protein kinase activator A homolog (LOC110374741), transcript variant X5, mRNA"	NA
+24_5240206_5242473	"Helicoverpa armigera CDK-activating kinase assembly factor MAT1 (LOC110381013), mRNA"	NA
+24_5246900_5248923	"PREDICTED: Helicoverpa armigera uncharacterized LOC110381012 (LOC110381012), mRNA"	NA
+24_5249511_5255267	"Helicoverpa zea uncharacterized LOC124640293 (LOC124640293), mRNA "	NA
+24_5256686_5260935	"Helicoverpa armigera structure-specific endonuclease subunit SLX4 (LOC110381008), mRNA "	NA
+24_5261842_5265399	"Helicoverpa armigera L-lactate dehydrogenase (LOC110372434), mRNA "	NA
+24_5269689_5291637	 Helicoverpa armigera activating signal cointegrator 1 complex subunit 2	NA
+24_5295228_5296028	"PREDICTED: Helicoverpa armigera uncharacterized LOC110370266 (LOC110370266), mRNA "	NA
+24_5354479_5358127	"PREDICTED: Helicoverpa zea repetitive proline-rich cell wall protein 1 (LOC124642318), mRNA "	NA
+24_5387179_5395300	"PREDICTED: Helicoverpa armigera alpha-catulin (LOC110374065), transcript variant X4, mRNA"	NA
+24_5397181_5398825	"PREDICTED: Helicoverpa armigera proteasome subunit alpha type-5 (LOC110383197), mRNA "	NA
+24_5400430_5403645	"PREDICTED: Helicoverpa armigera alpha-xylosidase (LOC110383195), mRNA"	NA
+24_5404300_5407894	"PREDICTED: Helicoverpa armigera tRNA (adenine(37)-N6)-methyltransferase (LOC110383194), mRNA"	NA
+24_5413406_5419480	NA	NA
+24_5421188_5424010	"Helicoverpa armigera exosome complex component RRP41 (LOC110382721), mRNA "	NA
+24_5425220_5441373	"PREDICTED: Helicoverpa armigera protein O-GlcNAcase-like (LOC126056306), transcript variant X4, mRNA "	NA
+26_5233978_5295792	"PREDICTED: Helicoverpa armigera large subunit ribosomal RNA (LOC126056503), rRNA"	NA
+26_5329855_5331732	"Helicoverpa armigera trypsin (TLP) mRNA, complete cds"	NA
+26_5334573_5356484	"PREDICTED: Helicoverpa armigera uncharacterized LOC135118808 (LOC135118808), ncRNA "	NA
+26_5369894_5372798	"Helicoverpa armigera odorant receptor (OR56) mRNA, partial cds"	NA
+26_5373975_5377157	"Helicoverpa armigera odorant receptor (OR57) mRNA, partial cds"	NA
+26_5379358_5382950	"PREDICTED: Helicoverpa armigera uncharacterized LOC110375040 (LOC110375040), mRNA"	NA
+26_5391845_5438171	"PREDICTED: Helicoverpa armigera USP6 N-terminal-like protein (LOC110373849), transcript variant X3, mRNA"	NA
+26_5442896_5471530	"PREDICTED: Helicoverpa zea zinc finger protein rotund (LOC124642568), mRNA"	NA
+26_5519126_5590071	"PREDICTED: Helicoverpa armigera TOM1-like protein 2 (LOC110378393), transcript variant X2, mRNA"	NA
+26_5628009_5685295	"PREDICTED: Helicoverpa armigera zinc finger protein 135 (LOC110375050), transcript variant X16, mRNA"	NA
+26_5742834_5744849	"PREDICTED: Helicoverpa armigera trypsin-2-like (LOC135118844), mRNA"	NA
+26_5746338_5749368	"PREDICTED: Helicoverpa zea trypsin-1-like (LOC124642726), mRNA"	NA
+26_5849726_5854403	"PREDICTED: Helicoverpa armigera leucine-rich repeat-containing protein 71 (LOC110375054), mRNA"	NA
+26_5855955_5856458	"PREDICTED: Helicoverpa armigera leucine-rich repeat-containing protein 71 (LOC110375049), mRNA"	NA
+26_5857978_5859570	"PREDICTED: Helicoverpa armigera uncharacterized LOC110375056 (LOC110375056), mRNA	Helicoverpa armigera"	NA
+26_5905823_5911155	"PREDICTED: Helicoverpa armigera potassium channel subfamily K member 9 (LOC110375059), transcript variant X2, mRNA"	NA
+26_5917547_5925342	"PREDICTED: Helicoverpa armigera RNA-directed DNA polymerase from mobile element jockey (LOC126055564), transcript variant X3, misc_RNA"	NA
+26_5954107_5955087	"PREDICTED: Helicoverpa armigera RNA-directed DNA polymerase from mobile element jockey (LOC126055564), transcript variant X3, misc_RNA"	NA
+26_6121276_6121580	"PREDICTED: Helicoverpa armigera uncharacterized LOC135118847 (LOC135118847), ncRNA"	NA
+26_6147590_6149252	"PREDICTED: Helicoverpa armigera WASH complex subunit 3 (LOC110375037), mRNA"	NA
+26_6157349_6159686	"PREDICTED: Helicoverpa armigera protein THEM6 (LOC110375062), mRNA"	NA
+26_6163853_6166407	"Helicoverpa armigera armigera strain AY2 tetraspanin 1 (TSPAN1) gene, complete cds"	Jin et al. 2018
+26_6168512_6196603	"PREDICTED: Helicoverpa armigera uncharacterized LOC110375055 (LOC110375055), transcript variant X4, mRNA"	NA
+26_6205305_6234350	"Helicoverpa armigera NF-kappa-B inhibitor-interacting Ras-like protein (LOC110380757), transcript variant X2, mRNA"	NA
+26_6241158_6241499	"PREDICTED: Helicoverpa armigera galectin-4 (LOC110383349), mRNA"	NA
+26_6242478_6254744	"PREDICTED: Helicoverpa armigera uncharacterized LOC110372648 (LOC110372648), mRNA"	NA
+26_6257981_6260133	"PREDICTED: Helicoverpa armigera uncharacterized LOC110372651 (LOC110372651), mRNA"	NA
+26_6264783_6267767	"PREDICTED: Helicoverpa armigera uncharacterized LOC110372650 (LOC110372650), mRNA"	NA
+26_6303663_6362021	"PREDICTED: Helicoverpa armigera ankyrin-2 (LOC110372625), mRNA"	Campbell et al. 2019
+26_6365223_6380112	"PREDICTED: Helicoverpa armigera uncharacterized LOC110372666 (LOC110372666), mRNA"	NA
+26_6380754_6391894	"PREDICTED: Helicoverpa armigera uncharacterized LOC110372666 (LOC110372666), mRNA"	NA
+26_6454538_6456675	"PREDICTED: Helicoverpa armigera UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (LOC110372667), mRNA"	NA
+26_6488079_6587656	NA	NA
+26_6594292_6620471	"PREDICTED: Helicoverpa armigera uncharacterized LOC135116796 (LOC135116796), mRNA"	NA
+26_6669718_6693661	"PREDICTED: Helicoverpa armigera uncharacterized LOC135116796 (LOC135116796), mRNA"	NA
