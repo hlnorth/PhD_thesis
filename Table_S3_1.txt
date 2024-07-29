@@ -1,0 +1,666 @@
+ID	category	collection_year_factor	country	state	crop	inferred_sex	CYP337b3	filter1	ARM_anc	AH	material	DNA_extraction_concentration	library_concentration	number_bases_passing_Q20	percent_mapped	chr24_inversion_genotype	chr26_inversion_genotype	chr21_inversion_genotype	filter1
+CAM046012	Brazilian_helicoverpa	2015	Brazil	Roraima	soybean_cotton	male	NA	No	0.985180629	0.022480707	adult	NA	NA	791672004	60.4	NA	NA	NA	N
+CAM046023	Brazilian_helicoverpa	2015	Brazil	Roraima	soybean_cotton	female	NA	No	0.989465744	0.017114914	adult	NA	NA	1005720068	71.18	NA	NA	NA	N
+CAM046028	Brazilian_helicoverpa	2015	Brazil	Roraima	soybean_cotton	female	NA	No	0.990385877	0.014306339	adult	NA	NA	1457303387	81.73	NA	NA	NA	N
+CAM046031	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	Yes	0.977224565	0.04024231	adult	NA	NA	2392755674	93.4	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046034	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.984191442	0.027921866	adult	NA	NA	3679875254	94.15	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046035	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.973972573	0.046935419	adult	NA	NA	2283161695	93.35	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046039	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	female	NA	No	0.952176379	0.088000504	adult	NA	NA	1182156546	63.12	NA	NA	NA	N
+CAM046043	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	No	0.130982886	0.224261005	adult	NA	NA	741835787	87.15	NA	NA	NA	N
+CAM046044	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	No	0.988541845	0.019561869	adult	NA	NA	1378817134	80.24	NA	NA	NA	N
+CAM046047	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	female	NA	No	0.977904857	0.038074797	adult	NA	NA	892997521	71.43	NA	NA	NA	N
+CAM046048	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	No	0.972570762	0.047563467	adult	NA	NA	816958282	61.25	NA	NA	NA	N
+CAM046049	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	No	0.983808164	0.02472581	adult	NA	NA	877051821	67.99	NA	NA	NA	N
+CAM046051	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	Yes	0.073836839	0.138878266	adult	NA	NA	1655030248	91.09	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046054	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	male	NA	No	0.978354517	0.034547471	adult	NA	NA	1177257142	83.03	NA	NA	NA	N
+CAM046057	Brazilian_helicoverpa	2016	Brazil	Roraima	soybean_cotton	female	NA	No	0.978184408	0.034482015	adult	NA	NA	1071099021	61.69	NA	NA	NA	N
+CAM046061	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.970810406	0.053848846	adult	NA	NA	4538664765	94.39	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046067	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.97972914	0.036974203	adult	NA	NA	5068166690	94.79	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046068	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	male	NA	Yes	0.977130998	0.0409945	adult	NA	NA	3094221384	90.62	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM046069	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.986451021	0.022460602	adult	NA	NA	1639558151	93.68	NA	NA	NA	N
+CAM046070	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.975350472	0.043256674	adult	NA	NA	1429967517	91.97	NA	NA	NA	N
+CAM046071	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.983318442	0.027900939	adult	NA	NA	1207958620	92.34	NA	NA	NA	N
+CAM046072	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.979502485	0.033601988	adult	NA	NA	811494099	92.76	NA	NA	NA	N
+CAM046073	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.972929641	0.046207226	adult	NA	NA	3963073232	94.42	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046074	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.979564785	0.034842436	adult	NA	NA	1271986311	92.41	NA	NA	NA	N
+CAM046075	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.97576175	0.04024591	adult	NA	NA	1211746247	92.38	NA	NA	NA	N
+CAM046076	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.984258098	0.025169744	adult	NA	NA	1001390300	91.4	NA	NA	NA	N
+CAM046077	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	male	NA	Yes	0.984034731	0.028349355	adult	NA	NA	3084765257	94.95	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046078	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.986139458	0.023428788	adult	NA	NA	2494389944	94.25	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046079	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.980356157	0.035586602	adult	NA	NA	4571732788	94.97	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046081	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	male	NA	No	0.974884527	0.042703789	adult	NA	NA	1039706522	92.54	NA	NA	NA	N
+CAM046084	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	No	0.975783621	0.041852636	adult	NA	NA	889595983	91.88	NA	NA	NA	N
+CAM046087	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.990401024	0.016198676	adult	NA	NA	1251086123	91.67	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046089	Brazilian_helicoverpa	2017	Brazil	Roraima	soybean_cotton	female	NA	Yes	0.978598024	0.035841498	adult	NA	NA	2901420786	94.25	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046091	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.045796944	0.084126906	adult	NA	NA	1363781938	89.74	NA	NA	NA	N
+CAM046092	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.979864164	0.034607147	adult	NA	NA	1407741086	92.01	NA	NA	NA	N
+CAM046093	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.980792959	0.032294152	adult	NA	NA	1208299466	92.36	NA	NA	NA	N
+CAM046096	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.983325219	0.02721519	adult	NA	NA	3588476378	95.12	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046097	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.981791514	0.030312907	adult	NA	NA	800375584	92.7	NA	NA	NA	N
+CAM046098	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.062432448	0.119983729	adult	NA	NA	2226523238	93.78	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046101	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.039802733	0.075647416	adult	NA	NA	2702351186	94.41	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046105	Brazilian_helicoverpa	2015	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.986160005	0.02482348	adult	NA	NA	2803722143	94.43	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046109	Brazilian_helicoverpa	2016	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.988550134	0.017911076	adult	NA	NA	1327807482	94.19	NA	NA	NA	N
+CAM046113	Brazilian_helicoverpa	2016	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.975965167	0.042542816	adult	NA	NA	1954176485	91.91	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046114	Brazilian_helicoverpa	2016	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.974899821	0.045579732	adult	NA	NA	1623780374	86.46	NA	NA	NA	N
+CAM046117	Brazilian_helicoverpa	2016	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.040867321	0.078781621	adult	NA	NA	2703655248	93.87	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046120	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.06020384	0.11092676	adult	NA	NA	998618313	91.11	NA	NA	NA	N
+CAM046121	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.06285574	0.115951178	adult	NA	NA	4026350653	92.49	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046122	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	Yes	0.985449798	0.024208984	adult	NA	NA	1754195783	91.85	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046124	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.972049263	0.049578712	adult	NA	NA	1600642093	94.36	NA	NA	NA	N
+CAM046125	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.054715211	0.098349603	adult	NA	NA	924099378	90.2	NA	NA	NA	N
+CAM046126	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.981308854	0.032768754	adult	NA	NA	782468771	92.11	NA	NA	NA	N
+CAM046127	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.971841007	0.05154197	adult	NA	NA	3835251774	95.01	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046128	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.980217311	0.033990386	adult	NA	NA	829022636	91.94	NA	NA	NA	N
+CAM046131	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.055872303	0.109125284	adult	NA	NA	3641264515	94.31	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046136	Brazilian_helicoverpa	2016	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.045058218	0.085696189	adult	NA	NA	1630983843	90.58	NA	NA	NA	N
+CAM046137	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.034130319	0.065894161	adult	NA	NA	3114337617	94.05	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046141	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.030440532	0.054056072	adult	NA	NA	2442222244	93.41	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046142	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.022939631	0.043330963	adult	NA	NA	3605422277	92.91	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046144	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.10446692	0.175221239	adult	NA	NA	966398521	91.88	NA	NA	NA	N
+CAM046145	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	female	NA	No	0.090112101	0.161695447	adult	NA	NA	1139936861	90.92	NA	NA	NA	N
+CAM046146	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.039290185	0.074224101	adult	NA	NA	3816457161	94.35	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046147	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	No	0.018328028	0.029006509	adult	NA	NA	1076318959	93.25	NA	NA	NA	N
+CAM046148	Brazilian_helicoverpa	2017	Brazil	Rio Grande do Sul	soybean_wheat	male	NA	Yes	0.021159301	0.039892951	adult	NA	NA	3448567639	94.46	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046214	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	female	NA	Yes	0.981565111	0.032353775	adult	NA	NA	2163812240	92.29	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046215	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	female	NA	Yes	0.982443527	0.031359951	adult	NA	NA	2589729583	94.38	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM046219	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.981897668	0.03175734	adult	NA	NA	2149746874	94.95	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046220	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	female	NA	Yes	0.966844976	0.056786239	adult	NA	NA	2304884583	94.06	ARM2/ARM2	ARM1/ARM2	ZEA/ARM1	Y
+CAM046221	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	female	NA	Yes	0.989999374	0.017081361	adult	NA	NA	2372105372	94.41	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046223	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.974706869	0.047230654	adult	NA	NA	4276190139	95.25	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046225	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	female	NA	Yes	0.989062362	0.018489422	adult	NA	NA	2169304760	94.08	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046226	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	female	NA	Yes	0.982993858	0.030476152	adult	NA	NA	2766556650	95	ARM2/ARM2	ARM1/ARM2	ZEA/ARM1	Y
+CAM046227	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	male	NA	No	0.968856728	0.050674522	adult	NA	NA	1045059069	94.96	NA	NA	NA	N
+CAM046228	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	female	NA	Yes	0.980695895	0.031748539	adult	NA	NA	1969173272	94.83	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046230	Brazilian_helicoverpa	2015	Brazil	Mato Grosso	mixed	male	NA	Yes	0.985171875	0.025706675	adult	NA	NA	2106260392	95.17	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046231	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	No	0.972775397	0.049941429	adult	NA	NA	1417587778	90.41	NA	NA	NA	N
+CAM046232	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	No	0.977667649	0.039971039	adult	NA	NA	1006764177	87.79	NA	NA	NA	N
+CAM046233	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.981957348	0.031407173	adult	NA	NA	2439108725	87.99	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046235	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	No	0.985964637	0.022268397	adult	NA	NA	726987369	59.66	NA	NA	NA	N
+CAM046238	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.984895878	0.026416145	adult	NA	NA	2209920546	94.56	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046239	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	No	0.98437091	0.027182651	adult	NA	NA	1102362761	92.48	NA	NA	NA	N
+CAM046242	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.98173484	0.03128171	adult	NA	NA	1832249495	94.81	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046243	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	female	NA	Yes	0.977666083	0.038337661	adult	NA	NA	2347205152	93.54	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046244	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	female	NA	No	0.974815151	0.043967251	adult	NA	NA	1545963311	91.15	NA	NA	NA	N
+CAM046245	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.983770294	0.028975636	adult	NA	NA	2390787249	93.5	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046246	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	mixed	male	NA	Yes	0.976419962	0.044044629	adult	NA	NA	5447483738	95.03	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046247	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	Yes	0.975035983	0.04310894	adult	NA	NA	1798006245	91.77	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046248	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	Yes	0.979360568	0.036660746	adult	NA	NA	1881800290	90.42	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM046249	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.967400603	0.055462767	adult	NA	NA	1066677925	90.16	NA	NA	NA	N
+CAM046250	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.970191625	0.052426945	adult	NA	NA	1298353911	92.23	NA	NA	NA	N
+CAM046251	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	Yes	0.979492073	0.035789783	adult	NA	NA	1829535889	91.7	NA	NA	NA	N
+CAM046252	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	No	0.967913725	0.055203342	adult	NA	NA	1536338175	91.02	NA	NA	NA	N
+CAM046253	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	No	0.985890278	0.023472761	adult	NA	NA	1492538081	90.8	NA	NA	NA	N
+CAM046254	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	Yes	0.976270096	0.041897933	adult	NA	NA	2015347137	90.85	ARM2/ARM2	ARM2/ARM2	ZEA/ARM1	Y
+CAM046255	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.972415275	0.04681179	adult	NA	NA	1347708743	91.22	NA	NA	NA	N
+CAM046256	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	Yes	0.977595958	0.040030751	adult	NA	NA	1637778193	90.28	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046257	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.982656957	0.029456371	adult	NA	NA	1586299380	92.58	NA	NA	NA	N
+CAM046258	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.970278493	0.052110149	adult	NA	NA	1340365208	89.78	NA	NA	NA	N
+CAM046259	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.972636745	0.045534498	adult	NA	NA	845380408	91.07	NA	NA	NA	N
+CAM046260	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	female	NA	No	0.978949412	0.035814659	adult	NA	NA	1127231465	91.11	NA	NA	NA	N
+CAM046263	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	No	0.978858007	0.036038966	adult	NA	NA	1232204334	92.56	NA	NA	NA	N
+CAM046264	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	No	0.97940255	0.035506211	adult	NA	NA	1446624012	91.77	NA	NA	NA	N
+CAM046265	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	mixed	male	NA	No	0.983952602	0.026623121	adult	NA	NA	1184118195	92.31	NA	NA	NA	N
+CAM046271	Brazilian_helicoverpa	2015	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.027662926	0.047292774	adult	NA	NA	798688513	87.98	NA	NA	NA	N
+CAM046272	Brazilian_helicoverpa	2015	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	No	0.972982675	0.045231778	adult	NA	NA	844706861	70.67	NA	NA	NA	N
+CAM046280	Brazilian_helicoverpa	2015	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.024435254	0.044312522	adult	NA	NA	2603004724	93.63	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046284	Brazilian_helicoverpa	2015	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.987706772	0.020091274	adult	NA	NA	1594070163	86.95	NA	NA	NA	N
+CAM046290	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.040979828	0.068149453	adult	NA	NA	2788233185	93.66	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046296	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	No	0.969696742	0.050372489	adult	NA	NA	1340277773	92.96	NA	NA	NA	N
+CAM046298	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.987564306	0.020122675	adult	NA	NA	1046616207	93.07	NA	NA	NA	N
+CAM046300	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.979636434	0.033475242	adult	NA	NA	1310522492	93.07	NA	NA	NA	N
+CAM046302	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.976489123	0.04249172	adult	NA	NA	2875276523	93.09	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046306	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.046042847	0.06670675	adult	NA	NA	908343371	91.51	NA	NA	NA	N
+CAM046307	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.020375828	0.036632126	adult	NA	NA	2678552936	93.3	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046308	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.137753832	0.233500896	adult	NA	NA	2327804166	92.63	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046311	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	Yes	0.980022588	0.033396889	adult	NA	NA	1735743839	94.5	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046312	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.969767823	0.050149907	adult	NA	NA	2979796678	93.59	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046313	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.346119156	0.63376259	adult	NA	NA	2209223717	89.13	ZEA_ARM_recombinant	ZEA_ARM_recombinant	ZEA_ARM_recombinant	Y
+CAM046315	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.982273113	0.028922816	adult	NA	NA	660891846	92.45	NA	NA	NA	N
+CAM046316	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	No	0.967603702	0.046109016	adult	NA	NA	1434501899	92.58	NA	NA	NA	N
+CAM046317	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	Yes	0.962605531	0.069005611	adult	NA	NA	3071779699	94.58	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046318	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	No	0.974603499	0.042212978	adult	NA	NA	1173248224	92.56	NA	NA	NA	N
+CAM046319	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	No	0.977785354	0.035325987	adult	NA	NA	1149704311	92.81	NA	NA	NA	N
+CAM046321	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.021339134	0.033010557	adult	NA	NA	1460258569	93.44	NA	NA	NA	N
+CAM046322	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.069315241	0.057580035	adult	NA	NA	2480210771	93.76	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046323	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	Yes	0.037096313	0.066919106	adult	NA	NA	1705893783	93.83	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046326	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	Yes	0.07453014	0.134150873	adult	NA	NA	2165708973	91.86	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046327	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	male	NA	No	0.044172669	0.080488261	adult	NA	NA	1054831969	91.51	NA	NA	NA	N
+CAM046328	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	Yes	0.038775969	0.072535611	adult	NA	NA	1916234506	90.4	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046329	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	soybean_maize_cotton	female	NA	No	0.079457549	0.125413046	adult	NA	NA	1195340211	90.76	NA	NA	NA	N
+CAM046330	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	female	Present	Yes	0.978636815	0.036302767	adult	NA	NA	2211200072	92.17	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046331	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	male	Present	Yes	0.99038602	0.016385143	adult	NA	NA	3766836991	95.2	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046334	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	female	Present	Yes	0.975861435	0.044698897	adult	NA	NA	6307010437	94.92	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046335	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	male	NA	Yes	0.967881123	0.052350028	adult	NA	NA	1962140321	35.67	ARM2/ARM2	ZEA/ARM1	ARM1/ARM1	Y
+CAM046336	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	female	Present	Yes	0.98479877	0.027052705	adult	NA	NA	3117524330	93.2	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046337	Brazilian_helicoverpa	NA	Brazil	NA	mixed	female	Present	Yes	0.601103698	0.735461745	adult	NA	NA	1852577960	94.05	ZEA/ARM2	ZEA_ARM_recombinant	ZEA_ARM_recombinant	Y
+CAM046339	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	male	Present	Yes	0.983467888	0.029471773	adult	NA	NA	3430162983	94.54	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046340	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	male	NA	No	0.785041563	0.403077467	adult	NA	NA	1115377507	78.11	NA	NA	NA	N
+CAM046343	Brazilian_helicoverpa	2012	Brazil	Goias	mixed	female	NA	Yes	0.977107851	0.041572626	adult	NA	NA	2607588715	92.07	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046346	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	female	NA	Yes	0.971701952	0.052410251	adult	NA	NA	4287670343	94.88	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046347	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	NA	No	0.98512606	0.023827757	adult	NA	NA	1384745793	94.43	NA	NA	NA	N
+CAM046348	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	female	NA	No	0.983044655	0.028010825	adult	NA	NA	1494832851	92.12	NA	NA	NA	N
+CAM046349	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	Present	Yes	0.979085593	0.036969547	adult	NA	NA	2479997667	94.57	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046350	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	NA	No	0.97217778	0.044092524	adult	NA	NA	965548794	42.44	NA	NA	NA	N
+CAM046360	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	Present	No	0.982956533	0.028222515	adult	NA	NA	1315581180	47.5	NA	NA	NA	N
+CAM046362	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	female	Heterozygous/Uncertain	Yes	0.96984863	0.054525104	adult	NA	NA	2494316221	94.43	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046365	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	NA	Yes	0.971304154	0.053119599	adult	NA	NA	4334404709	94.75	ARM2/ARM2	ZEA/ARM2	ARM1/ARM2	Y
+CAM046366	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	NA	Yes	0.971394592	0.051929518	adult	NA	NA	4103097845	95.17	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM046367	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	male	NA	Yes	0.970389313	0.052270416	adult	NA	NA	3142192428	94.96	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046369	Brazilian_helicoverpa	2013	Brazil	Goias	mixed	female	NA	Yes	0.022228452	0.039517249	adult	NA	NA	1705483312	93.13	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046370	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	female	NA	Yes	0.982393431	0.030284361	adult	NA	NA	2751558287	94.65	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM046371	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.975206814	0.04549415	adult	NA	NA	4019320762	95.16	ZEA/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046372	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.985622461	0.024265519	adult	NA	NA	2225884744	95.45	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046375	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.984947881	0.026887889	adult	NA	NA	3208665759	95.21	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046377	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	female	NA	Yes	0.980490237	0.034413268	adult	NA	NA	2409251796	94.79	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046381	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	female	NA	Yes	0.987462678	0.022128153	adult	NA	NA	3074647775	94.55	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046382	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.974359938	0.039734203	adult	NA	NA	1348908883	92.86	NA	NA	NA	N
+CAM046383	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.978981465	0.034977631	adult	NA	NA	1377200946	93.16	NA	NA	NA	N
+CAM046384	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.980132352	0.033713894	adult	NA	NA	821442985	93.13	NA	NA	NA	N
+CAM046390	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.984098997	0.027280496	adult	NA	NA	2234781537	93.73	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046391	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.97718088	0.036315107	adult	NA	NA	1151394311	95.04	NA	NA	NA	N
+CAM046392	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	female	NA	Yes	0.971129839	0.052885042	adult	NA	NA	3549572287	94.98	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046394	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.987263872	0.019847982	adult	NA	NA	1076054812	95.25	NA	NA	NA	N
+CAM046395	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.990276018	0.014103906	adult	NA	NA	880225386	95.33	NA	NA	NA	N
+CAM046397	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.983528717	0.026490367	adult	NA	NA	1420083385	94.38	NA	NA	NA	N
+CAM046399	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	female	NA	No	0.978961484	0.034349526	adult	NA	NA	1317418464	94.7	NA	NA	NA	N
+CAM046401	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	No	0.982873175	0.024820986	adult	NA	NA	748275352	95.33	NA	NA	NA	N
+CAM046402	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	female	NA	No	0.986777692	0.020991479	adult	NA	NA	1343474188	94.48	NA	NA	NA	N
+CAM046404	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.98505844	0.025477635	adult	NA	NA	1987835436	95.37	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046405	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.982612518	0.030849748	adult	NA	NA	2545118571	95.39	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM046407	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.978443024	0.038939379	adult	NA	NA	2922886990	94.88	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046409	Brazilian_helicoverpa	2014	Brazil	Goias	mixed	male	NA	Yes	0.973119969	0.046036753	adult	NA	NA	2141548187	95.17	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM046410	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	Yes	0.97646871	0.039208174	adult	NA	NA	2208887170	95.17	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046415	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	Yes	0.970983969	0.052516743	adult	NA	NA	2790940716	94.92	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046417	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	Yes	0.964435295	0.064135407	adult	NA	NA	2780603668	95.16	ARM2/ARM2	ZEA/ARM1	ARM2/ARM2	Y
+CAM046418	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	Yes	0.978562735	0.037265174	adult	NA	NA	2446754594	93.2	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046419	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	Yes	0.98538448	0.02570798	adult	NA	NA	2761235197	94.86	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046421	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	No	0.987586025	0.019756989	adult	NA	NA	777917255	94.99	NA	NA	NA	N
+CAM046423	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	female	NA	No	0.085411431	0.14968748	adult	NA	NA	605748625	91.41	NA	NA	NA	N
+CAM046424	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	female	NA	Yes	0.042218199	0.082596308	adult	NA	NA	3664601958	93.11	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046427	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	Yes	0.980229692	0.035380521	adult	NA	NA	3058627154	94.88	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046428	Brazilian_helicoverpa	2015	Brazil	Goias	mixed	male	NA	No	0.941423238	0.11257711	adult	NA	NA	1627173910	72.84	NA	NA	NA	N
+CAM046434	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	NA	No	0.979545371	0.032606708	adult	NA	NA	1251005430	93.7	NA	NA	NA	N
+CAM046436	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	NA	Yes	0.966680491	0.058814958	adult	NA	NA	2195103859	94.64	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046437	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	NA	Yes	0.988133546	0.020372302	adult	NA	NA	2356035242	94.51	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM046440	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	NA	Yes	0.986243867	0.023811538	adult	NA	NA	2510265603	94.32	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046444	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	NA	Yes	0.980613468	0.035225202	adult	NA	NA	3736526379	95.45	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046450	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	male	Present	No	0.976935244	0.039221383	adult	NA	NA	813378213	95.23	NA	NA	NA	N
+CAM046451	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	male	Heterozygous/Uncertain	No	0.056761286	0.095277495	adult	NA	NA	1141673494	90.77	NA	NA	NA	N
+CAM046454	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	female	NA	No	0.070472251	0.096891124	adult	NA	NA	1514287418	89.01	NA	NA	NA	N
+CAM046456	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	female	Absent	No	0.019742249	0.033504118	adult	NA	NA	1319425937	93.52	NA	NA	NA	N
+CAM046458	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	female	Present	No	0.08331458	0.114219988	adult	NA	NA	1014249359	91.42	NA	NA	NA	N
+CAM046459	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	female	Heterozygous/Uncertain	No	0.083271871	0.142371107	adult	NA	NA	1043657044	91.76	NA	NA	NA	N
+CAM046460	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	Absent	No	0.080944486	0.145951439	adult	NA	NA	679012451	91.67	NA	NA	NA	N
+CAM046462	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	female	Heterozygous/Uncertain	Yes	0.054442831	0.087206232	adult	NA	NA	1668788573	88.11	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046463	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	female	NA	Yes	0.027182125	0.048420505	adult	NA	NA	3355866845	93.52	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046464	Brazilian_helicoverpa	2016	Brazil	Goias	mixed	male	NA	No	0.069918082	0.099475356	adult	NA	NA	1066130758	90.52	NA	NA	NA	N
+CAM046468	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	female	NA	No	0.989005831	0.01840421	adult	NA	NA	869588610	91.87	NA	NA	NA	N
+CAM046471	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	male	NA	Yes	0.039368384	0.066755845	adult	NA	NA	2137219146	93.28	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046473	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	male	Present	Yes	0.9802011	0.035844453	adult	NA	NA	3014546009	95.37	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046476	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	male	NA	Yes	0.058172204	0.069199054	adult	NA	NA	2207807812	93.54	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046478	Brazilian_helicoverpa	2017	Brazil	Goias	mixed	male	Absent	Yes	0.974478376	0.047228386	adult	NA	NA	3712618776	92	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046479	Brazilian_helicoverpa	NA	Brazil	NA	mixed	female	Absent	Yes	0.978241629	0.039038174	adult	NA	NA	2130514093	92.03	ARM2/ARM2	ARM1/ARM2	ZEA/ARM1	Y
+CAM046480	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	male	NA	No	0.981799754	0.030861907	adult	NA	NA	849406832	93.02	NA	NA	NA	N
+CAM046482	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	Present	No	0.05694213	0.105703681	adult	NA	NA	1227495877	90.91	NA	NA	NA	N
+CAM046483	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	NA	No	0.058393883	0.10864686	adult	NA	NA	1230082660	89.93	NA	NA	NA	N
+CAM046484	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	NA	Yes	0.970850002	0.051962062	adult	NA	NA	1902234298	91.81	ARM2/ARM2	ARM1/ARM1	ZEA/ARM1	Y
+CAM046486	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	Present	Yes	0.988082043	0.020460741	adult	NA	NA	2707000200	92.23	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046487	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	male	Heterozygous/Uncertain	Yes	0.960843743	0.062876945	adult	NA	NA	2477175935	91.36	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046488	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	male	Present	Yes	0.966817496	0.061337355	adult	NA	NA	2613544766	91.18	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046489	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	Present	No	0.978731841	0.03536282	adult	NA	NA	1183608026	44.71	NA	NA	NA	N
+CAM046492	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	male	Heterozygous/Uncertain	Yes	0.970639972	0.054174243	adult	NA	NA	3002748782	91.85	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046493	Brazilian_helicoverpa	2013	Brazil	Bahia	soybean	female	NA	Yes	0.990025655	0.016749095	adult	NA	NA	4128547755	86.07	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM046494	Brazilian_helicoverpa	2013	Brazil	Bahia	soybean	male	Present	No	0.962437101	0.064202872	adult	NA	NA	1308550035	92.33	NA	NA	NA	N
+CAM046496	Brazilian_helicoverpa	2013	Brazil	Bahia	soybean	female	Heterozygous/Uncertain	Yes	0.529621819	0.811317457	adult	NA	NA	1964607916	90.3	ZEA/ARM2	ZEA/ARM2	ZEA/ARM1	Y
+CAM046498	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	NA	No	0.973989675	0.043997238	adult	NA	NA	767188171	89.93	NA	NA	NA	N
+CAM046499	Brazilian_helicoverpa	NA	Brazil	NA	cotton	female	Heterozygous/Uncertain	Yes	0.985637484	0.024973277	adult	NA	NA	2210982671	92.22	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046500	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	Present	Yes	0.975247885	0.043683871	adult	NA	NA	2278123954	90.17	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046501	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	NA	Yes	0.972254306	0.05099074	adult	NA	NA	2745052167	91.29	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046502	Brazilian_helicoverpa	2013	Brazil	Bahia	cotton	female	Present	Yes	0.981335168	0.033586582	adult	NA	NA	2554721576	87.18	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM046507	Brazilian_helicoverpa	2012_2013	Brazil	Bahia	unknown	female	NA	Yes	0.985213249	0.026033432	adult	NA	NA	2685177504	94.14	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046508	Brazilian_helicoverpa	2012_2013	Brazil	Bahia	unknown	female	NA	Yes	0.977316723	0.039604637	adult	NA	NA	1948432548	92.88	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM046510	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	Yes	0.974273142	0.044748284	adult	NA	NA	2482141658	93.61	ARM2/ARM2	ZEA/ARM1	ARM1/ARM2	Y
+CAM046512	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.989082526	0.018490153	adult	NA	NA	1455994544	91.76	NA	NA	NA	N
+CAM046517	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.974445558	0.044573221	adult	NA	NA	658730160	81.65	NA	NA	NA	N
+CAM046518	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.97400369	0.043991102	adult	NA	NA	1211987397	87.52	NA	NA	NA	N
+CAM046520	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	Yes	0.989376659	0.017766198	adult	NA	NA	3140137136	94.92	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM046521	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	Yes	0.974348284	0.045049459	adult	NA	NA	2682072354	94.77	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046523	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	No	0.979290613	0.030337436	adult	NA	NA	652618937	95.59	NA	NA	NA	N
+CAM046526	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	cant.be.det	NA	No	0.958557817	0.080761167	adult	NA	NA	903750909	59.43	NA	NA	NA	N
+CAM046529	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	No	0.932997776	0.130297154	adult	NA	NA	883079021	57.9	NA	NA	NA	N
+CAM046532	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	cant.be.det	NA	Yes	0.985392046	0.026906265	adult	NA	NA	2401280506	94.74	ARM2/ARM2	ARM2/ARM2	ARM_ARM_recombinant	Y
+CAM046534	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	male	NA	Yes	0.98549224	0.025172862	adult	NA	NA	2231612495	91.99	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046535	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.976182766	0.039150287	adult	NA	NA	874239104	86.39	NA	NA	NA	N
+CAM046536	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	male	NA	Yes	0.974856183	0.044183223	adult	NA	NA	2357493638	94.49	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046545	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	Yes	0.991100587	0.014988485	adult	NA	NA	1717946627	89.91	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046546	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	cant.be.det	NA	No	0.972280996	0.053509947	adult	NA	NA	1664590620	79.09	NA	NA	NA	N
+CAM046547	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.976030921	0.039404663	adult	NA	NA	902628453	94.89	NA	NA	NA	N
+CAM046549	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.986670779	0.02247807	adult	NA	NA	742203798	93.33	NA	NA	NA	N
+CAM046552	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	No	0.99063696	0.012575178	adult	NA	NA	738562533	95.1	NA	NA	NA	N
+CAM046553	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	No	0.990845768	0.0135837	adult	NA	NA	1199498361	95.26	NA	NA	NA	N
+CAM046554	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.990474129	0.01407231	adult	NA	NA	983662988	94.09	NA	NA	NA	N
+CAM046557	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.977699233	0.036048351	adult	NA	NA	1139355268	84.78	NA	NA	NA	N
+CAM046558	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	No	0.978031108	0.035204328	adult	NA	NA	1147524770	87.12	NA	NA	NA	N
+CAM046560	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	Yes	0.985285574	0.024736325	adult	NA	NA	2008028370	94.04	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046561	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.989319836	0.015766546	adult	NA	NA	906002680	94.34	NA	NA	NA	N
+CAM046562	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	Yes	0.983411663	0.02938108	adult	NA	NA	3038172386	95.33	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046565	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	Yes	0.978342813	0.039729067	adult	NA	NA	5409729853	95.07	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046566	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.336268724	0.598892419	adult	NA	NA	1402532984	94.06	NA	NA	NA	N
+CAM046567	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	male	NA	No	0.980422687	0.033613445	adult	NA	NA	953060944	93.25	NA	NA	NA	N
+CAM046568	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	Yes	0.988744864	0.018857812	adult	NA	NA	3078365909	94.24	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046569	Brazilian_helicoverpa	2015	Brazil	Bahia	cotton	female	NA	No	0.982446558	0.028687147	adult	NA	NA	1193076216	94.29	NA	NA	NA	N
+CAM046570	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	male	NA	No	0.991183151	0.013011078	adult	NA	NA	1115609658	87	NA	NA	NA	N
+CAM046573	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	female	NA	Yes	0.188620386	0.369689747	adult	NA	NA	3373606756	93.26	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046574	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	female	NA	Yes	0.627703899	0.719654392	adult	NA	NA	3236685851	92.57	ZEA/ARM2	ZEA_ARM_recombinant	ZEA/ARM1	Y
+CAM046575	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	female	NA	No	0.970532298	0.053390161	adult	NA	NA	1046632532	88.44	NA	NA	NA	N
+CAM046576	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	female	NA	No	0.944616386	0.106831095	adult	NA	NA	1530622961	86.01	NA	NA	NA	N
+CAM046580	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	male	NA	Yes	0.990507034	0.016429948	adult	NA	NA	9926130175	91.47	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046586	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	male	NA	Yes	0.979753278	0.031672114	adult	NA	NA	3477335788	95.13	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046588	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	female	NA	No	0.979815658	0.034634395	adult	NA	NA	1282921840	91.53	NA	NA	NA	N
+CAM046590	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	male	NA	Yes	0.972806094	0.047337978	adult	NA	NA	1948646730	85.77	ARM2/ARM2	ARM2/ARM2	ZEA/ARM1	Y
+CAM046592	Brazilian_helicoverpa	2015	Brazil	Bahia	soybean	male	NA	No	0.981100504	0.030889996	adult	NA	NA	1417814768	83.63	NA	NA	NA	N
+CAM046594	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	No	0.984990619	0.024802087	adult	NA	NA	1403829413	92.6	NA	NA	NA	N
+CAM046596	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	No	0.983026441	0.026900334	adult	NA	NA	815986089	94.88	NA	NA	NA	N
+CAM046597	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.976305932	0.042993893	adult	NA	NA	5259611210	94.79	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046598	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.967705362	0.05823589	adult	NA	NA	2468925556	93.27	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046600	Brazilian_helicoverpa	2016	Brazil	Bahia	mixed	female	NA	Yes	0.983183788	0.029662562	adult	NA	NA	2901026207	94.38	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM046601	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	No	0.979061561	0.035052929	adult	NA	NA	830554357	91.84	NA	NA	NA	N
+CAM046602	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	No	0.025404553	0.041483818	adult	NA	NA	839239121	94.01	NA	NA	NA	N
+CAM046603	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	NA	Yes	0.05965002	0.074519034	adult	NA	NA	2796982576	93.49	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046604	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	male	NA	Yes	0.512227663	0.905926444	adult	NA	NA	3140261073	92.87	ZEA/ARM2	ZEA/ARM2	ZEA/ARM1	Y
+CAM046606	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.984572009	0.026833861	adult	NA	NA	3027410656	95.18	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046607	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	Heterozygous/Uncertain	No	0.068829045	0.109150919	adult	NA	NA	918569782	90.45	NA	NA	NA	N
+CAM046615	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	male	Present	Yes	0.989887169	0.01665404	adult	NA	NA	1823174650	92.02	ARM2/ARM2	ARM1/ARM2	ZEA/ARM1	Y
+CAM046616	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	male	Present	Yes	0.986493787	0.021859286	adult	NA	NA	1775820455	88.71	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046617	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	Heterozygous/Uncertain	No	0.965117917	0.060387154	adult	NA	NA	1046941730	92.44	NA	NA	NA	N
+CAM046619	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	Present	No	0.110074748	0.168473337	adult	NA	NA	1432174828	91.63	NA	NA	NA	N
+CAM046620	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	Present	No	0.945689768	0.103610088	adult	NA	NA	1175175265	94.41	NA	NA	NA	N
+CAM046622	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.977700122	0.040664198	adult	NA	NA	5113133088	95.46	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046623	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	Present	Yes	0.98719451	0.02257222	adult	NA	NA	3133768590	94.73	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM046624	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	male	NA	Yes	0.038783431	0.043342026	adult	NA	NA	3195199139	93.41	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046625	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	male	Present	Yes	0.951047173	0.067395135	adult	NA	NA	2370868529	94.47	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046626	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	Present	Yes	0.029679321	0.051516803	adult	NA	NA	4882857841	94.27	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046627	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	Present	Yes	0.097092491	0.153416864	adult	NA	NA	4985186609	94.08	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM046628	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	Present	No	0.974854134	0.043035644	adult	NA	NA	1491981679	91.91	NA	NA	NA	N
+CAM046654	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	female	NA	No	0.981733648	0.026412695	whole.adult	43.9	0.271	NA	28.18	NA	NA	NA	N
+CAM046655	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.966238642	0.063032813	whole.adult	NA	NA	NA	89.63	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046659	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	female	NA	No	0.988218219	0.015026039	whole.adult	48.6	0.296	NA	28.41	NA	NA	NA	N
+CAM046660	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.971570676	0.049433362	whole.adult	16.8	0.275	NA	92.89	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM046661	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.982728499	0.029168965	whole.adult	10.6	0.165	NA	92.91	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046662	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.97548979	0.039979726	whole.adult	12.5	0.19	NA	91.76	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM046663	Brazilian_helicoverpa	2019	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.979572493	0.036451597	whole.adult	5.37	0.279	NA	91.29	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046684	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	female	NA	No	0.988330838	0.018670659	whole.adult	39.9	0.2	NA	89.43	NA	NA	NA	N
+CAM046685	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	male	NA	No	0.983556638	0.022972552	whole.adult	7.51	0.153	NA	78.64	NA	NA	NA	N
+CAM046686	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.98562238	0.022868165	whole.adult	24.2	0.22	NA	89.96	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046687	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.980931885	0.033832141	whole.adult	5.16	0.225	NA	91.14	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046692	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	male	NA	No	0.98479288	0.025505757	whole.adult	11.4	0.177	NA	88.54	NA	NA	NA	N
+CAM046721	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	sorghum	female	NA	Yes	0.980332172	0.0339389	whole.adult	32.1	0.142	NA	90.28	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM046725	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	sorghum	female	NA	Yes	0.986293092	0.022664631	whole.adult	8.34	0.158	NA	88.7	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM046727	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	soybean	female	NA	Yes	0.986191747	0.023545174	whole.adult	40	0.212	NA	83.28	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM046728	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	soybean	male	NA	No	0.975871162	0.037677549	whole.adult	24	0.178	NA	31.55	NA	NA	NA	N
+CAM046731	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	soybean	female	NA	No	0.987088675	0.018527818	whole.adult	23.4	0.18	NA	93.64	NA	NA	NA	N
+CAM046733	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	soybean	female	NA	No	0.989064968	0.017827984	whole.adult	33.5	0.215	NA	88.66	NA	NA	NA	N
+CAM046737	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	soybean	male	NA	No	0.983444918	0.026189027	whole.adult	33.1	0.154	NA	35.84	NA	NA	NA	N
+CAM046751	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	female	NA	No	0.981700424	0.030578112	whole.adult	18.5	0.287	NA	90.93	NA	NA	NA	N
+CAM046753	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	female	NA	No	0.990666528	0.014399223	whole.adult	16.6	0.224	NA	80.62	NA	NA	NA	N
+CAM046754	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	male	NA	No	0.037546462	0.041861407	whole.adult	14.7	0.268	NA	90.2	NA	NA	NA	N
+CAM046760	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	male	NA	No	0.033945346	0.027156277	whole.adult	14	0.131	NA	88.87	NA	NA	NA	N
+CAM046761	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	male	NA	No	0.045520036	0.015578568	whole.adult	16.9	0.183	NA	42.73	NA	NA	NA	N
+CAM046762	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	female	NA	No	0.986462174	0.021544546	whole.adult	21.9	0.134	NA	91.12	NA	NA	NA	N
+CAM046763	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	female	NA	No	0.973760777	0.042279834	whole.adult	29.4	0.154	NA	90.66	NA	NA	NA	N
+CAM046773	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	female	NA	No	0.978560341	0.034503945	whole.adult	14.6	0.174	NA	85.48	NA	NA	NA	N
+CAM046777	Brazilian_helicoverpa	2016	Brazil	Bahia	millet	female	NA	No	0.982256597	0.025672689	whole.adult	36.2	0.143	NA	36.11	NA	NA	NA	N
+CAM046779	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	cotton	female	NA	No	0.984729521	0.024655332	whole.adult	38	0.183	NA	89.91	NA	NA	NA	N
+CAM046784	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	cotton	female	NA	No	0.985686272	0.024272343	whole.adult	16.3	0.437	NA	90.73	NA	NA	NA	N
+CAM046791	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	cotton	female	NA	No	0.991330312	0.013858981	whole.adult	14.2	0.15	NA	90.91	NA	NA	NA	N
+CAM046834	Brazilian_helicoverpa	2015	Brazil	Sao Paulo	maize	female	NA	No	0.024986379	0.031112477	whole.adult	6.68	0.332	NA	88.65	NA	NA	NA	N
+CAM046835	Brazilian_helicoverpa	2015	Brazil	Sao Paulo	maize	female	NA	No	0.012423303	0.017171476	whole.adult	0.894	0.212	NA	76.02	NA	NA	NA	N
+CAM046837	Brazilian_helicoverpa	2015	Brazil	Sao Paulo	maize	male	NA	No	0.014220895	0.023971175	whole.adult	2.51	0.172	NA	91.98	NA	NA	NA	N
+CAM046840	Brazilian_helicoverpa	2015	Brazil	Sao Paulo	maize	male	NA	No	0.014896811	0.020337711	whole.adult	3.15	0.152	NA	87.74	NA	NA	NA	N
+CAM046846	Brazilian_helicoverpa	2013	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.983453365	0.028188928	whole.adult	12.6	0.146	NA	90.36	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM046871	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean	female	NA	No	0.984176903	0.025035765	whole.adult	15	0.174	NA	65.14	NA	NA	NA	N
+CAM046873	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean	female	NA	No	0.979630626	0.037750284	whole.adult	5.93	0.154	NA	83.25	NA	NA	NA	N
+CAM046876	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean	male	NA	No	0.979079324	0.026563869	whole.adult	11.7	0.297	NA	89.19	NA	NA	NA	N
+CAM046877	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean	female	NA	Yes	0.980419333	0.034323694	whole.adult	2.38	0.181	NA	81.08	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM046878	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean	female	NA	Yes	0.979982067	0.018581136	whole.adult	2.36	0.23	NA	85.81	ARM2/ARM2	ARM1/ARM1	ARM2/ARM2	Y
+CAM046880	Brazilian_helicoverpa	2016	Brazil	Mato Grosso do Sul	soybean	male	NA	Yes	0.986416984	0.022566612	whole.adult	4.3	0.142	NA	82.16	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM046930	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	cotton	female	NA	Yes	0.981576737	0.031972373	whole.adult	40.4	0.221	NA	90.25	ARM2/ARM2	ARM1/ARM2	ZEA/ARM1	Y
+CAM046940	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	cotton	male	NA	No	0.982539259	0.028050139	whole.adult	21.2	0.171	NA	68.96	NA	NA	NA	N
+CAM046952	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.976322159	0.036440989	whole.adult	3.36	0.298	NA	90.72	NA	NA	NA	N
+CAM046953	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	female	NA	No	0.985338569	0.024813558	whole.adult	4.76	0.476	NA	82.72	NA	NA	NA	N
+CAM046958	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	cant.be.det	NA	No	0.984654108	0.024236765	whole.adult	3.66	0.208	NA	79.39	NA	NA	NA	N
+CAM046959	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.974871075	0.040220094	whole.adult	5.65	0.188	NA	61.01	NA	NA	NA	N
+CAM046960	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	female	NA	No	0.98845057	0.018574144	whole.adult	13.1	0.208	NA	81.03	NA	NA	NA	N
+CAM046961	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	female	NA	No	0.979174931	0.033826205	whole.adult	4.95	0.153	NA	90.55	NA	NA	NA	N
+CAM046963	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.980269001	0.029767796	whole.adult	4.5	0.142	NA	91.21	NA	NA	NA	N
+CAM046970	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.987411432	0.018791834	whole.adult	17.4	0.158	NA	92.07	NA	NA	NA	N
+CAM046973	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	female	NA	No	0.970918774	0.047089621	whole.adult	22.1	0.159	NA	91.37	NA	NA	NA	N
+CAM046976	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.97400112	0.043756001	whole.adult	7.58	0.141	NA	88.4	NA	NA	NA	N
+CAM046979	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.982833325	0.028548064	whole.adult	12.7	0.184	NA	91.92	NA	NA	NA	N
+CAM046981	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	female	NA	No	0.031695201	0.02225233	whole.adult	19.8	0.15	NA	92.25	NA	NA	NA	N
+CAM046982	Brazilian_helicoverpa	2017	Brazil	Mato Grosso	cotton	male	NA	No	0.982875624	0.025816512	whole.adult	24.4	0.195	NA	38.69	NA	NA	NA	N
+CAM047002	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.983306487	0.024454532	whole.adult	15.5	0.149	NA	92.97	NA	NA	NA	N
+CAM047003	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.980431359	0.031387675	whole.adult	19.3	0.164	NA	91.19	NA	NA	NA	N
+CAM047008	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	male	NA	Yes	0.987816682	0.019189429	whole.adult	20.1	0.33	NA	89.08	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047009	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	male	NA	Yes	0.978379041	0.036697541	whole.adult	21.2	0.253	NA	91.21	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047013	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	female	NA	No	0.986644856	0.021849623	whole.adult	14.8	0.168	NA	91.92	NA	NA	NA	N
+CAM047018	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	male	NA	No	0.973480757	0.043772384	whole.adult	3.51	0.241	NA	92.55	NA	NA	NA	N
+CAM047027	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	soybean	female	NA	Yes	0.990329094	0.015507481	whole.adult	5.08	0.464	NA	91.18	ARM2/ARM2	ARM1/ARM1	ZEA/ARM1	Y
+CAM047030	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	soybean	male	NA	No	0.986275494	0.020515028	whole.adult	4.59	0.25	NA	27.81	NA	NA	NA	N
+CAM047163	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.98057211	0.032982988	whole.adult	9.94	0.238	NA	85.29	ARM2/ARM2	ARM1/ARM1	ARM2/ARM2	Y
+CAM047164	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.978533306	0.037801499	whole.adult	8.12	0.232	NA	89.55	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047165	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.984712565	0.026291284	whole.adult	19	0.263	NA	90.05	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM047167	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.985289899	0.024362775	whole.adult	13.4	0.24	NA	90.8	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM047168	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.979549874	0.035133987	whole.adult	8.36	0.299	NA	71.8	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047169	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.976751018	0.040561622	whole.adult	3.71	0.401	NA	89.13	ARM2/ARM2	ARM2/ARM2	ZEA/ARM1	Y
+CAM047170	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.966129402	0.059286562	whole.adult	11.9	0.266	NA	90.7	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047171	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.984753513	0.025853223	whole.adult	15	0.178	NA	88.83	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM047172	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.978382342	0.037885126	whole.adult	6.75	0.252	NA	89.83	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM047173	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	male	NA	Yes	0.985935022	0.023914045	whole.adult	5.53	0.351	NA	90.44	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047174	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	Yes	0.981667245	0.032277486	whole.adult	12.8	0.311	NA	89.39	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047175	Brazilian_helicoverpa	2016	Brazil	Bahia	soybean	female	NA	No	0.985529771	0.023265397	whole.adult	12.5	0.175	NA	90.63	NA	NA	NA	N
+CAM047204	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	Yes	0.974145279	0.024539361	whole.adult	43.5	0.183	NA	90.35	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM047205	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	No	0.984981121	0.018828629	whole.adult	7.86	0.178	NA	92.97	NA	NA	NA	N
+CAM047206	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	Yes	0.976441717	0.039023826	whole.adult	7.9	0.152	NA	90.74	ARM2/ARM2	ARM1/ARM1	ARM2/ARM2	Y
+CAM047209	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	Yes	0.984169968	0.02534662	whole.adult	19.6	0.176	NA	91.23	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047210	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	No	0.977168767	0.039052673	whole.adult	10.7	0.141	NA	91.02	NA	NA	NA	N
+CAM047212	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	Yes	0.983662815	0.027386163	whole.adult	19.6	0.148	NA	92.25	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047213	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	No	0.979637955	0.033765364	whole.adult	14	0.314	NA	91.42	NA	NA	NA	N
+CAM047215	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	Yes	0.98031134	0.031724404	whole.adult	13.1	0.326	NA	91.54	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047216	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	Yes	0.984150618	0.025493899	whole.adult	11.5	0.223	NA	90.36	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047217	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	No	0.98514996	0.019521962	whole.adult	5.24	0.167	NA	94.31	NA	NA	NA	N
+CAM047218	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	No	0.988624997	0.018154046	whole.adult	10.5	0.191	NA	91.88	NA	NA	NA	N
+CAM047219	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	male	NA	No	0.973802922	0.030321842	whole.adult	14.3	0.152	NA	92.7	NA	NA	NA	N
+CAM047220	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.028512606	0.027695988	whole.adult	9.68	0.507	NA	90.29	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047221	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.031673987	0.033234041	whole.adult	8.11	0.363	NA	89.71	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047222	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	female	NA	Yes	0.031600857	0.033202384	whole.adult	11.5	0.464	NA	88.94	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047223	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.036781379	0.034435997	whole.adult	11.8	0.275	NA	90.38	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047224	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	Yes	0.976129226	0.041769981	whole.adult	5.35	0.335	NA	91.23	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047225	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	Yes	0.982903815	0.028533099	whole.adult	4.54	0.394	NA	92.54	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047226	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	Yes	0.975402837	0.041398778	whole.adult	13.2	0.586	NA	90.64	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047227	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	Yes	0.974500204	0.045124439	whole.adult	17.3	0.387	NA	90.39	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047228	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	Yes	0.980778706	0.033230776	whole.adult	16.1	0.379	NA	61.38	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM047230	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	Yes	0.98694272	0.02000933	whole.adult	12.6	0.459	NA	90.14	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047231	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	No	0.984113256	0.0252185	whole.adult	35.1	0.282	NA	36.04	NA	NA	NA	N
+CAM047232	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	No	0.981578121	0.030853541	whole.adult	34.7	0.16	NA	41.09	NA	NA	NA	N
+CAM047233	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	Yes	0.981762888	0.032419345	whole.adult	10.4	0.468	NA	90.01	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047235	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.977131055	0.03625942	whole.adult	15.7	0.148	NA	91.41	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM047237	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.979436947	0.035167317	whole.adult	2.2	0.303	NA	91.45	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047268	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	male	NA	No	0.984974279	0.022490729	whole.adult	20.3	0.16	NA	58.19	NA	NA	NA	N
+CAM047270	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	female	NA	No	0.98341382	0.026924223	whole.adult	17.9	0.162	NA	91.35	NA	NA	NA	N
+CAM047271	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	male	NA	No	0.992173196	0.011991753	whole.adult	16.7	0.181	NA	54.78	NA	NA	NA	N
+CAM047273	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	male	NA	No	0.9861702	0.023033688	whole.adult	11.6	0.152	NA	88.42	NA	NA	NA	N
+CAM047274	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	male	NA	No	0.983181533	0.027857067	whole.adult	14.8	0.143	NA	89.26	NA	NA	NA	N
+CAM047279	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	male	NA	No	0.988429423	0.017647705	whole.adult	22.2	0.164	NA	91.35	NA	NA	NA	N
+CAM047281	Brazilian_helicoverpa	2016	Brazil	Mato Grosso	millet	female	NA	No	0.985867327	0.022749559	whole.adult	13.4	0.241	NA	91.15	NA	NA	NA	N
+CAM047298	Brazilian_helicoverpa	2016	Brazil	Goias	soybean	female	NA	Yes	0.985918028	0.023674654	whole.adult	12.9	0.188	NA	92.17	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047299	Brazilian_helicoverpa	2016	Brazil	Goias	soybean	male	NA	Yes	0.981776507	0.030809577	whole.adult	6.07	0.188	NA	90.77	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047337	Brazilian_helicoverpa	2016	Brazil	Goias	millet	male	NA	No	0.970684326	0.04901811	whole.adult	19.7	0.142	NA	91.98	NA	NA	NA	N
+CAM047344	Brazilian_helicoverpa	2016	Brazil	Goias	soybean	male	NA	No	0.98326353	0.027297364	whole.adult	12.7	0.166	NA	90.74	NA	NA	NA	N
+CAM047347	Brazilian_helicoverpa	2016	Brazil	Goias	soybean	female	NA	Yes	0.966567453	0.058957265	whole.adult	17	0.154	NA	85.6	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047350	Brazilian_helicoverpa	2016	Brazil	Goias	soybean	female	NA	No	0.98168131	0.028021837	whole.adult	58	0.205	NA	39.48	NA	NA	NA	N
+CAM047362	Brazilian_helicoverpa	2018	Brazil	Goias	soybean	female	NA	No	0.973181536	0.046699401	whole.adult	10.9	0.254	NA	75.95	NA	NA	NA	N
+CAM047390	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	soybean	female	NA	No	0.989714929	0.016175986	whole.adult	23.4	0.219	NA	65.95	NA	NA	NA	N
+CAM047394	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	soybean	female	NA	No	0.990079107	0.015039553	whole.adult	20.7	0.157	NA	93.02	NA	NA	NA	N
+CAM047397	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	soybean	male	NA	No	0.981889221	0.029737305	whole.adult	9.98	0.177	NA	88.7	NA	NA	NA	N
+CAM047433	Brazilian_helicoverpa	2017	Brazil	Sao Paulo	soybean	female	NA	Yes	0.989042167	0.018286448	whole.adult	8.04	0.177	NA	90.38	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047438	Brazilian_helicoverpa	2018	Brazil	Sao Paulo	soybean	male	NA	No	0.98382913	0.025912026	whole.adult	8.61	0.159	NA	91.7	NA	NA	NA	N
+CAM047441	Brazilian_helicoverpa	2017	Brazil	Sao Paulo	soybean	female	NA	Yes	0.984259529	0.027438994	whole.adult	6.28	0.158	NA	90.97	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047445	Brazilian_helicoverpa	2016	Brazil	Sao Paulo	soybean	female	NA	Yes	0.99240563	0.012043983	whole.adult	34.5	0.168	NA	64.48	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047448	Brazilian_helicoverpa	2016	Brazil	Sao Paulo	soybean	male	NA	No	0.985035211	0.024827537	whole.adult	13.7	0.138	NA	87.89	NA	NA	NA	N
+CAM047454	Brazilian_helicoverpa	2016	Brazil	Sao Paulo	soybean	female	NA	Yes	0.971995113	0.050491269	whole.adult	32.3	0.193	NA	90.5	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047456	Brazilian_helicoverpa	2016	Brazil	Sao Paulo	soybean	male	NA	No	0.988904179	0.017541362	whole.adult	27.6	0.197	NA	41.77	NA	NA	NA	N
+CAM047475	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	female	NA	Yes	0.989262304	0.017271876	whole.adult	25.9	0.163	NA	90.56	ZEA/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047485	Brazilian_helicoverpa	2017	Brazil	Bahia	cotton	male	NA	No	0.980135792	0.023580145	whole.adult	3.87	0.171	NA	76.93	NA	NA	NA	N
+CAM047521	Brazilian_helicoverpa	2018	Brazil	Bahia	soybean	female	NA	Yes	0.040695093	0.034106592	whole.adult	4.62	0.151	NA	89.5	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047522	Brazilian_helicoverpa	2018	Brazil	Bahia	soybean	female	NA	Yes	0.974092621	0.046509086	whole.adult	8.25	0.226	NA	90.1	ZEA/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047524	Brazilian_helicoverpa	2017	Brazil	Goias	cotton	female	NA	Yes	0.975227616	0.044522925	whole.adult	31.9	0.243	NA	90.98	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM047528	Brazilian_helicoverpa	2017	Brazil	Goias	cotton	male	NA	No	0.967776694	0.049837806	whole.adult	15.2	0.185	NA	41.35	NA	NA	NA	N
+CAM047534	Brazilian_helicoverpa	2017	Brazil	Goias	cotton	female	NA	Yes	0.969523578	0.055048292	whole.adult	32.5	0.215	NA	91.19	ARM2/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+CAM047535	Brazilian_helicoverpa	2017	Brazil	Goias	cotton	male	NA	Yes	0.970142069	0.053660833	whole.adult	18.1	0.146	NA	90.32	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047536	Brazilian_helicoverpa	2017	Brazil	Goias	cotton	female	NA	No	0.96888466	0.050866581	whole.adult	9.69	0.144	NA	93.66	NA	NA	NA	N
+CAM047595	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.029490346	0.03387609	whole.adult	3.12	0.238	NA	41.19	NA	NA	NA	N
+CAM047599	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	female	NA	No	0.025906276	0.033310181	whole.adult	6.2	0.189	NA	89.8	NA	NA	NA	N
+CAM047601	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.038772385	0.015611043	whole.adult	1.39	0.142	NA	89.55	NA	NA	NA	N
+CAM047603	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	female	NA	No	0.044718076	0.034506296	whole.adult	35	0.299	NA	82.64	NA	NA	NA	N
+CAM047606	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	female	NA	No	0.037501669	0.018591332	whole.adult	22.9	0.155	NA	90.36	NA	NA	NA	N
+CAM047612	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.042730038	0.025728696	whole.adult	2.38	0.153	NA	91.56	NA	NA	NA	N
+CAM047614	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	female	NA	No	0.03249255	0.02145315	whole.adult	19.9	0.33	NA	89.45	NA	NA	NA	N
+CAM047615	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.029431201	0.019760489	whole.adult	21.6	0.137	NA	89.85	NA	NA	NA	N
+CAM047620	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.037531648	0.027271591	whole.adult	3.84	0.145	NA	91.42	NA	NA	NA	N
+CAM047623	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	male	NA	No	0.990628509	0.010997948	dna.extraction	9.44	0.264	NA	94.55	NA	NA	NA	N
+CAM047624	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	female	NA	No	0.990860257	0.013835214	dna.extraction	16.6	0.199	NA	56.89	NA	NA	NA	N
+CAM047625	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	female	NA	No	0.980633933	0.031770718	dna.extraction	16.3	0.322	NA	91.81	NA	NA	NA	N
+CAM047626	Brazilian_helicoverpa	NA	Brazil	Mato Grosso	soybean	0	NA	No	0.986324277	0.020927499	dna.extraction	12.5	0.137	NA	91.31	NA	NA	NA	N
+CAM047628	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	female	NA	No	0.978778977	0.032799896	dna.extraction	8.03	0.225	NA	92.07	NA	NA	NA	N
+CAM047629	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	male	NA	Yes	0.974605226	0.030042147	dna.extraction	17.9	0.38	NA	89.99	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047631	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	female	NA	No	0.978037151	0.034508791	dna.extraction	24.2	0.141	NA	94.54	NA	NA	NA	N
+CAM047633	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	female	NA	Yes	0.981022994	0.024232261	dna.extraction	16.5	0.171	NA	91.03	ARM2/ARM2	ARM1/ARM2	ARM2/ARM2	Y
+CAM047634	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	female	NA	Yes	0.984053123	0.025854036	dna.extraction	22.1	0.202	NA	55.71	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047639	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	male	NA	No	0.9859046	0.021005888	dna.extraction	14.1	0.211	NA	94.3	NA	NA	NA	N
+CAM047640	Brazilian_helicoverpa	2020	Brazil	Mato Grosso	soybean	male	NA	Yes	0.968158636	0.052431441	dna.extraction	13.4	0.185	NA	84.48	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047666	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.985654259	0.02160281	dna.extraction	33.9	0.161	NA	87.38	NA	NA	NA	N
+CAM047671	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	No	0.982032975	0.030884494	dna.extraction	38.8	0.179	NA	75.67	NA	NA	NA	N
+CAM047677	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	cant.be.det	NA	No	0.980407841	0.029798852	dna.extraction	37.1	0.281	NA	61.89	NA	NA	NA	N
+CAM047681	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.97871504	0.036469034	dna.extraction	37.3	0.402	NA	91.27	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047683	Brazilian_helicoverpa	2019	Brazil	Bahia	cotton	male	NA	Yes	0.977470062	0.038181367	dna.extraction	9.27	0.169	NA	91.2	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047689	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	Yes	0.985326016	0.02482982	dna.extraction	11.5	0.309	NA	90.47	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047692	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	No	0.985890852	0.021220159	dna.extraction	27.2	0.194	NA	90.97	NA	NA	NA	N
+CAM047693	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	Yes	0.980760349	0.033630028	dna.extraction	10.1	0.445	NA	90.16	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047694	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	Yes	0.982001158	0.029912929	dna.extraction	9.98	0.243	NA	89.65	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047697	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	Yes	0.986221361	0.02271301	dna.extraction	14.3	0.192	NA	92.15	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047699	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	No	0.984497271	0.024094442	dna.extraction	8.92	0.304	NA	74.81	NA	NA	NA	N
+CAM047700	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	Yes	0.982753918	0.029014331	dna.extraction	10.2	0.292	NA	92.24	ARM2/ARM2	ARM2/ARM2	ARM2/ARM2	Y
+CAM047703	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	No	0.969049598	0.051606742	dna.extraction	11.4	0.176	NA	93.4	NA	NA	NA	N
+CAM047708	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	No	0.983637279	0.027586846	dna.extraction	31.9	0.258	NA	92	NA	NA	NA	N
+CAM047712	Brazilian_helicoverpa	2014	Brazil	Bahia	soybean	female	NA	Yes	0.980086712	0.031568288	dna.extraction	39.9	0.142	NA	91.29	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047718	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	No	0.990992631	0.013576073	dna.extraction	29.2	0.389	NA	94.41	NA	NA	NA	N
+CAM047723	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	No	0.982335581	0.027805908	dna.extraction	19.1	0.203	NA	92.76	NA	NA	NA	N
+CAM047726	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	No	0.985453273	0.022718084	dna.extraction	22.6	0.145	NA	92.89	NA	NA	NA	N
+CAM047728	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	No	0.987541974	0.020097617	dna.extraction	18.3	0.182	NA	91.38	NA	NA	NA	N
+CAM047729	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	male	NA	Yes	0.961796809	0.068922267	dna.extraction	12	0.189	NA	81.13	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047730	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	Yes	0.976012896	0.042342826	dna.extraction	16.2	0.175	NA	88.02	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047733	Brazilian_helicoverpa	2021	Brazil	Mato Grosso	cotton	female	NA	No	0.981058036	0.031764118	dna.extraction	5.99	0.175	NA	91.92	NA	NA	NA	N
+CAM047738	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	male	NA	No	0.97514975	0.033276286	dna.extraction	12.4	0.322	NA	94.13	NA	NA	NA	N
+CAM047739	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.983196585	0.025982098	dna.extraction	13.6	0.157	NA	92.4	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047740	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.969846607	0.037343351	dna.extraction	15.2	0.362	NA	89.46	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047741	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.971257331	0.047058591	dna.extraction	15.7	0.291	NA	91.43	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047742	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.964548716	0.062769157	dna.extraction	12.8	0.332	NA	91.41	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047743	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.985032678	0.025238199	dna.extraction	6.41	0.161	NA	91.18	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047745	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	female	NA	No	0.978005511	0.035021994	dna.extraction	17	0.166	NA	93.39	NA	NA	NA	N
+CAM047747	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	female	NA	No	0.98472593	0.021381002	dna.extraction	25.9	0.16	NA	60.02	NA	NA	NA	N
+CAM047748	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	female	NA	No	0.970265241	0.047023474	dna.extraction	22.2	0.182	NA	93.91	NA	NA	NA	N
+CAM047749	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	male	NA	No	0.975632315	0.03962318	dna.extraction	14.7	0.186	NA	91.78	NA	NA	NA	N
+CAM047753	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	male	NA	No	0.972130917	0.031521281	dna.extraction	18.1	0.151	NA	94.6	NA	NA	NA	N
+CAM047754	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.971759175	0.048396621	dna.extraction	28.6	0.31	NA	80.83	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047755	Brazilian_helicoverpa	2018	Brazil	Mato Grosso	soybean	male	NA	Yes	0.975956917	0.041925514	dna.extraction	22.2	0.221	NA	89.07	ARM1/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047773	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.02788245	0.021620434	dna.extraction	42.2	0.353	NA	91.18	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047774	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.033224352	0.025541744	dna.extraction	34.1	0.999	NA	91.45	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047775	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.033454934	0.02448108	dna.extraction	31.9	0.685	NA	92.38	NA	NA	NA	N
+CAM047776	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.034889067	0.018476343	dna.extraction	35.2	0.461	NA	90.35	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047777	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.032586516	0.034522967	dna.extraction	35	0.513	NA	90.3	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047778	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	No	0.031365076	0.027450879	dna.extraction	40.4	0.621	NA	89.77	NA	NA	NA	N
+CAM047779	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.033830023	0.02702964	dna.extraction	43.2	0.349	NA	90.37	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047780	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.033121731	0.036062474	dna.extraction	40.1	0.245	NA	91.97	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047781	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.021985509	0.034843733	dna.extraction	45	0.4	NA	89.56	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047782	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.022049262	0.020356136	dna.extraction	33.7	0.778	NA	93.11	NA	NA	NA	N
+CAM047783	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	No	0.0362305	0.019484241	dna.extraction	33.5	0.416	NA	93.63	NA	NA	NA	N
+CAM047784	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.03447204	0.026493461	dna.extraction	40.4	0.353	NA	90.23	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047785	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.033539635	0.027450611	dna.extraction	40.4	0.262	NA	89.91	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047786	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.034033733	0.016972575	dna.extraction	46.8	0.297	NA	89.71	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047787	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.033610649	0.031166447	dna.extraction	39.5	0.201	NA	91.16	ZEA/ZEA	ZEA/ZEA	ZEA/ARM2	Y
+CAM047788	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.03261909	0.012496556	dna.extraction	28.9	0.264	NA	92.35	NA	NA	NA	N
+CAM047789	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.03782587	0.033531306	dna.extraction	42.4	0.274	NA	89.96	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047790	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	No	0.046350149	0.030276781	dna.extraction	40.6	0.469	NA	89.22	NA	NA	NA	N
+CAM047791	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.017788258	0.019181917	dna.extraction	41.1	0.666	NA	92.29	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047792	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.017323843	0.023812492	dna.extraction	37.1	0.173	NA	89.54	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047793	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.027061995	0.019365244	dna.extraction	32	0.227	NA	90.57	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047794	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.037815926	0.025964595	dna.extraction	42.2	0.266	NA	90.41	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047795	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.02238688	0.031174464	dna.extraction	40.5	0.501	NA	91.8	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047796	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.028720901	0.024501492	dna.extraction	38.5	0.261	NA	91.34	NA	NA	NA	N
+CAM047797	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.037226537	0.025165828	dna.extraction	43.1	0.382	NA	89.71	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047798	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	No	0.039168251	0.036777835	dna.extraction	6.23	0.262	NA	91.03	NA	NA	NA	N
+CAM047799	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.023889316	0.024756934	dna.extraction	15.1	0.624	NA	91.74	NA	NA	NA	N
+CAM047800	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.036734576	0.038164139	dna.extraction	15.2	0.24	NA	80.81	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047801	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.031688182	0.034776319	dna.extraction	18.2	0.278	NA	89.07	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047802	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	Yes	0.030613035	0.03475711	dna.extraction	40.7	0.238	NA	88.01	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047803	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.030861053	0.013231083	dna.extraction	31.6	0.226	NA	92.65	NA	NA	NA	N
+CAM047804	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.034272844	0.026372308	dna.extraction	7.66	0.253	NA	91.74	NA	NA	NA	N
+CAM047806	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.050513658	0.040532488	dna.extraction	12.6	0.615	NA	89	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047807	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.015566736	0.022255105	dna.extraction	3.46	0.135	NA	93.73	NA	NA	NA	N
+CAM047808	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.020390393	0.021470533	dna.extraction	15.6	0.213	NA	89.52	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047809	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.029036136	0.030482289	dna.extraction	10.7	0.22	NA	89.88	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047810	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	Yes	0.033775059	0.025370937	dna.extraction	10.8	0.374	NA	86.78	ZEA/ZEA	ZEA/ARM1	ZEA/ZEA	Y
+CAM047811	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	male	NA	No	0.033936108	0.044544696	dna.extraction	6.79	0.289	NA	91.2	NA	NA	NA	N
+CAM047812	Brazilian_helicoverpa	2022	Brazil	Mato Grosso	maize	female	NA	No	0.04505626	0.039134945	dna.extraction	3.94	0.282	NA	92.17	NA	NA	NA	N
+CAM047823	Brazilian_helicoverpa	2021	Brazil	Goias	maize	male	NA	Yes	0.302786607	0.475711253	dna.extraction	31.9	0.404	NA	88.23	ZEA/ARM2	ZEA/ARM1	ZEA/ARM2	Y
+CAM047824	Brazilian_helicoverpa	2021	Brazil	Goias	maize	male	NA	No	0.050282313	0.024365431	dna.extraction	13	0.216	NA	87.13	NA	NA	NA	N
+CAM047825	Brazilian_helicoverpa	2021	Brazil	Goias	maize	male	NA	No	0.03592448	0.014947334	dna.extraction	11	0.619	NA	92.68	NA	NA	NA	N
+CAM047826	Brazilian_helicoverpa	2021	Brazil	Goias	maize	male	NA	Yes	0.028931399	0.020099709	dna.extraction	25.7	0.237	NA	86.69	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047827	Brazilian_helicoverpa	2021	Brazil	Goias	maize	female	NA	Yes	0.03018508	0.018638324	dna.extraction	42.2	0.284	NA	89.58	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047828	Brazilian_helicoverpa	2021	Brazil	Goias	maize	female	NA	Yes	0.03605909	0.037734093	dna.extraction	38.5	0.404	NA	89.18	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047829	Brazilian_helicoverpa	2021	Brazil	Goias	maize	female	NA	No	0.030760609	0.018896817	dna.extraction	44.5	0.272	NA	90.94	NA	NA	NA	N
+CAM047830	Brazilian_helicoverpa	2021	Brazil	Goias	maize	female	NA	No	0.039670583	0.031188886	dna.extraction	33.6	0.264	NA	90.69	NA	NA	NA	N
+CAM047831	Brazilian_helicoverpa	2021	Brazil	Goias	maize	male	NA	No	0.020415288	0.031986967	dna.extraction	35.9	0.164	NA	89.06	NA	NA	NA	N
+CAM047850	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	female	NA	No	0.980174721	0.026837714	dna.extraction	18.2	0.256	NA	93.81	NA	NA	NA	N
+CAM047851	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	male	NA	Yes	0.974484045	0.045416351	dna.extraction	32.6	0.419	NA	92.38	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047852	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	male	NA	Yes	0.967771141	0.058454786	dna.extraction	26	0.384	NA	91.63	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047854	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	female	NA	Yes	0.967491529	0.054925574	dna.extraction	23.2	0.218	NA	87.96	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047855	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	female	NA	Yes	0.965747426	0.062744487	dna.extraction	19.7	0.184	NA	90.7	ARM2/ARM2	ARM2/ARM2	ARM1/ARM1	Y
+CAM047856	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	male	NA	Yes	0.983873769	0.026933139	dna.extraction	31.2	0.241	NA	93.7	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047857	Brazilian_helicoverpa	2021	Brazil	Bahia	soybean	male	NA	No	0.974661576	0.043194878	dna.extraction	11.2	0.27	NA	42.58	NA	NA	NA	N
+CAM047859	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	Yes	0.967330573	0.057078543	dna.extraction	42.8	0.397	NA	91.94	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047860	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	Yes	0.95442999	0.069131466	dna.extraction	34.3	0.442	NA	88.85	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047864	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	No	0.982536015	0.026954788	dna.extraction	26.3	0.172	NA	60.39	NA	NA	NA	N
+CAM047866	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	No	0.974751945	0.026556039	dna.extraction	39	0.235	NA	45.49	NA	NA	NA	N
+CAM047867	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	male	NA	No	0.978990548	0.031888711	dna.extraction	36.2	0.236	NA	43.78	NA	NA	NA	N
+CAM047868	Brazilian_helicoverpa	2020	Brazil	Bahia	cotton	female	NA	Yes	0.960259748	0.074861024	dna.extraction	6.84	0.537	NA	86.97	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047898	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	Yes	0.977649473	0.026965241	dna.extraction	15.9	0.138	NA	90.17	ARM2/ARM2	ARM1/ARM1	ARM1/ARM1	Y
+CAM047899	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	female	NA	Yes	0.038044784	0.030206987	dna.extraction	33	0.138	NA	88.63	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047901	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	female	NA	No	0.039133277	0.020435229	dna.extraction	29.8	0.383	NA	68.95	NA	NA	NA	N
+CAM047902	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	No	0.028672868	0.016443817	dna.extraction	21.8	0.673	NA	90.95	NA	NA	NA	N
+CAM047903	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	female	NA	No	0.04269333	0.026663492	dna.extraction	23.4	0.14	NA	79.82	NA	NA	NA	N
+CAM047904	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	female	NA	No	0.046257184	0.026196994	dna.extraction	36.6	0.184	NA	90.99	NA	NA	NA	N
+CAM047905	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	No	0.986050599	0.021015634	dna.extraction	44.9	0.216	NA	36.75	NA	NA	NA	N
+CAM047907	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	No	0.985950306	0.021711561	dna.extraction	38	0.341	NA	92.85	NA	NA	NA	N
+CAM047908	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	Yes	0.987487299	0.020824057	dna.extraction	26.8	0.247	NA	93.58	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047911	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	No	0.977823564	0.028528236	dna.extraction	12.7	0.435	NA	93	NA	NA	NA	N
+CAM047912	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	female	NA	No	0.979664613	0.034126639	dna.extraction	8.77	0.241	NA	85.52	NA	NA	NA	N
+CAM047913	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	female	NA	Yes	0.977470414	0.036558185	dna.extraction	13.9	0.208	NA	45.78	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047917	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	male	NA	No	0.983642274	0.027099766	dna.extraction	12.1	0.444	NA	94.46	NA	NA	NA	N
+CAM047919	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	male	NA	Yes	0.981168873	0.032546838	dna.extraction	15	0.372	NA	92.81	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM047921	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	female	NA	No	0.986212114	0.022548685	dna.extraction	13.6	0.178	NA	37.13	NA	NA	NA	N
+CAM047923	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	female	NA	No	0.986283912	0.022107256	dna.extraction	12.4	0.198	NA	91.91	NA	NA	NA	N
+CAM047924	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	male	NA	No	0.982456396	0.027691233	dna.extraction	5.85	0.307	NA	67.97	NA	NA	NA	N
+CAM047927	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	female	NA	Yes	0.983179798	0.028698385	dna.extraction	19.3	0.206	NA	92.36	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047928	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	male	NA	Yes	0.983197864	0.029238155	dna.extraction	23.2	0.399	NA	86.79	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM047929	Brazilian_helicoverpa	2021	Brazil	Goias	forage turnip	female	NA	Yes	0.986105842	0.023657478	dna.extraction	14.9	0.273	NA	91.17	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM047931	Brazilian_helicoverpa	2021	Brazil	Mato Grosso do Sul	forage turnip	male	NA	Yes	0.033323421	0.02297812	dna.extraction	45	0.214	NA	92.14	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047933	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	No	0.023004124	0.026161022	dna.extraction	12.5	0.405	NA	93.9	NA	NA	NA	N
+CAM047934	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.030081818	0.030504477	dna.extraction	30.3	0.728	NA	87.94	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047935	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	female	NA	Yes	0.032225768	0.020035678	dna.extraction	25.8	0.256	NA	90.82	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047936	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.025205866	0.0210632	dna.extraction	31.1	0.379	NA	91.57	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047938	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	female	NA	Yes	0.031131528	0.028554834	dna.extraction	56	0.254	NA	88.3	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047939	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.01976193	0.02901085	dna.extraction	27.7	0.496	NA	88.79	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047940	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	female	NA	Yes	0.036445613	0.048009685	dna.extraction	21.4	0.545	NA	91.14	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047942	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.029902531	0.026326184	dna.extraction	18.4	0.351	NA	84.65	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047943	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.031440457	0.01345759	dna.extraction	31.8	0.534	NA	88.89	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047944	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.028666192	0.015477962	dna.extraction	31.7	0.6	NA	85.93	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047945	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	female	NA	Yes	0.04036625	0.03625774	dna.extraction	19.3	0.766	NA	84.38	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047946	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	male	NA	Yes	0.023211095	0.034215724	dna.extraction	31.4	0.81	NA	89.04	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047947	Brazilian_helicoverpa	2022	Brazil	Bahia	maize	female	NA	Yes	0.032495241	0.02067247	dna.extraction	35.1	0.814	NA	86.3	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047967	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	male	NA	Yes	0.033883703	0.028419351	dna.extraction	6.92	0.409	NA	93.39	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047968	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.031596551	0.02697093	dna.extraction	29.6	0.592	NA	91.08	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047969	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.025609008	0.038244196	dna.extraction	6.76	0.782	NA	90.66	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047970	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.041420277	0.041832712	dna.extraction	7.24	0.585	NA	90.77	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047971	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.021876337	0.034321959	dna.extraction	6.84	0.54	NA	90.42	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047972	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.015856024	0.025013514	dna.extraction	19.6	0.602	NA	90.42	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047973	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.02750505	0.027488848	dna.extraction	19.4	0.677	NA	90.75	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047974	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.031252617	0.032403919	dna.extraction	25.6	0.667	NA	87.78	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047975	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	male	NA	Yes	0.033619441	0.019237165	dna.extraction	11.4	0.143	NA	93.23	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047976	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.03362705	0.016906034	dna.extraction	11.6	0.475	NA	91.34	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047977	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.022521304	0.033971844	dna.extraction	13.9	0.616	NA	87.06	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047978	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.023314639	0.01959169	dna.extraction	12.9	0.525	NA	90.77	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047979	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.036751281	0.054057324	dna.extraction	27.2	0.583	NA	86.44	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047980	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	male	NA	Yes	0.035520751	0.032205481	dna.extraction	25.5	0.431	NA	91	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047981	Brazilian_helicoverpa	2022	Brazil	Minas Gerais	maize	female	NA	Yes	0.029813891	0.031971304	dna.extraction	39.9	0.744	NA	88.03	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047983	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.036914786	0.023992682	dna.extraction	4.19	0.586	NA	92.88	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047984	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.028186475	0.027320998	dna.extraction	7.33	0.385	NA	93.78	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047985	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.023325655	0.028444846	dna.extraction	37.8	0.739	NA	91.61	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047986	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.056620807	0.030271674	dna.extraction	32.4	0.914	NA	88.63	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047987	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	female	NA	Yes	0.027208	0.027836231	dna.extraction	19.3	0.527	NA	86.49	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047988	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.029113938	0.042272275	dna.extraction	12.7	0.686	NA	87.41	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047989	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.022135207	0.031440746	dna.extraction	26.7	0.502	NA	91.94	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047990	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	female	NA	Yes	0.025710357	0.018229382	dna.extraction	27.9	0.529	NA	87.18	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047991	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.029440034	0.027964358	dna.extraction	17.6	0.484	NA	92.59	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047992	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	female	NA	Yes	0.036492113	0.020852636	dna.extraction	18.5	0.439	NA	89.83	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047993	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	female	NA	Yes	0.032983717	0.015182245	dna.extraction	23.3	0.621	NA	90.24	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047994	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	male	NA	Yes	0.039824738	0.020096499	dna.extraction	40.1	0.656	NA	82.94	ZEA_ARM_recombinant	ZEA_ARM_recombinant	ZEA_ARM_recombinant	Y
+CAM047996	Brazilian_helicoverpa	2022	Brazil	Sao paulo	maize	female	NA	Yes	0.025457305	0.028853988	dna.extraction	28.5	0.452	NA	90.18	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM047998	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	cant.be.det	NA	No	0.042558209	0.023283436	dna.extraction	107	0.132	NA	91.06	NA	NA	NA	N
+CAM048000	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	No	0.038771785	0.019974952	dna.extraction	51.2	0.241	NA	92.75	NA	NA	NA	N
+CAM048001	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	female	NA	No	0.024973666	0.035676665	dna.extraction	42.6	0.138	NA	90.61	NA	NA	NA	N
+CAM048002	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	No	0.034275313	0.027950885	dna.extraction	97.5	0.139	NA	91.6	NA	NA	NA	N
+CAM048005	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	Yes	0.012315852	0.021507793	dna.extraction	178	0.36	NA	90.97	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048006	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	Yes	0.034942592	0.030120977	dna.extraction	84.9	0.39	NA	91.28	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048007	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	No	0.036800564	0.0273247	dna.extraction	52	0.135	NA	91.91	NA	NA	NA	N
+CAM048011	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	Yes	0.022094167	0.024916721	dna.extraction	172	0.348	NA	90.87	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048012	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	female	NA	Yes	0.023371557	0.030579189	dna.extraction	55	0.453	NA	89.57	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048013	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	cant.be.det	NA	Yes	0.039068666	0.031408461	dna.extraction	131	0.253	NA	91.34	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048014	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	cant.be.det	NA	Yes	0.031732093	0.029574701	dna.extraction	52	0.314	NA	90.96	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048015	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	cant.be.det	NA	Yes	0.03015137	0.02793321	dna.extraction	87.1	0.46	NA	91.72	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048016	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	female	NA	No	0.035007642	0.029545805	dna.extraction	146	0.526	NA	93.16	NA	NA	NA	N
+CAM048017	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	female	NA	Yes	0.032427434	0.032861054	dna.extraction	135	0.619	NA	91.28	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048018	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	cant.be.det	NA	Yes	0.025374119	0.030124328	dna.extraction	169	0.37	NA	91.02	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048019	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	Yes	0.025846028	0.02562	dna.extraction	159	0.59	NA	91.19	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048020	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	cant.be.det	NA	Yes	0.029190076	0.036838004	dna.extraction	51	0.496	NA	91.52	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048021	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	female	NA	Yes	0.009516114	0.016863191	dna.extraction	116	0.568	NA	90.83	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048022	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	female	NA	Yes	0.023964973	0.036195602	dna.extraction	53	0.471	NA	90.93	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048023	Brazilian_helicoverpa	2021	Brazil	Goias	soybean	male	NA	Yes	0.033992444	0.026605733	dna.extraction	84.5	0.337	NA	92.68	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+CAM048025	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.982856346	0.026633194	dna.extraction	7.58	0.302	NA	93.53	ARM2/ARM2	ARM1/ARM2	ARM1/ARM2	Y
+CAM048027	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.983848389	0.026958237	dna.extraction	9.99	0.293	NA	86.64	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM048028	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	male	NA	Yes	0.981479763	0.032648811	dna.extraction	6.43	0.491	NA	85.75	ARM2/ARM2	ARM1/ARM2	ARM1/ARM1	Y
+CAM048029	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	female	NA	Yes	0.989326492	0.016993203	dna.extraction	39.6	0.235	NA	81.82	ARM2/ARM2	ARM2/ARM2	ARM1/ARM2	Y
+CAM048030	Brazilian_helicoverpa	2017	Brazil	Mato Grosso do Sul	cotton	cant.be.det	NA	No	0.975583413	0.036509791	dna.extraction	57	0.368	NA	35.37	NA	NA	NA	N
+CAM47022	Brazilian_helicoverpa	2014	Brazil	Bahia	cotton	cant.be.det	NA	No	0.981834503	0.029670541	whole.adult	0.376	0.163	NA	93.85	NA	NA	NA	N
+JBF4	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM2	ARM1/ARM1	ARM2/ARM2	Y
+JBF8	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM2	Y
+JNM10	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM1	Y
+KEL10	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL11	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM2	ARM1/ARM1	ARM1/ARM2	Y
+KEL12	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL13	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM2	Y
+KEL15	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL17	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM2	ARM2/ARM2	Y
+KEL18	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL19	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL21	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL23	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM1	Y
+KEL26	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM2	Y
+KEL2	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL30	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL3	Reference_armigera	NA	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM2/ARM2	Y
+KEL41	Reference_armigera	2019	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM2	Y
+KEL4	Reference_armigera	2019	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM2	ARM1/ARM1	ARM2/ARM2	Y
+KEL7	Reference_armigera	2018	China	Xinjiang	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ARM1/ARM1	ARM1/ARM1	ARM1/ARM2	Y
+M0087	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+M0236	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+M0239	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+M0244	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+M0245	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+M0263	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+M0264	Punctigera	2013	Australia	NSW	cotton	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Y
+SRR15350534	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350535	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350536	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350537	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350538	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350539	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350540	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350541	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350542	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350543	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350544	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350545	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
+SRR15350546	Reference_zea	2002	USA	Louisiana	NA	NA	NA	Yes	NA	NA	NA	NA	NA	NA	NA	ZEA/ZEA	ZEA/ZEA	ZEA/ZEA	Y
